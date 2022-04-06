@@ -20,7 +20,7 @@ REQUIRED_PACKAGES = [
     'pandas',
     'tf-models-official',
     'keras',
-    'tensorflow-io'
+
 ]
 
 setup(
